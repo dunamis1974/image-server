@@ -1,0 +1,27 @@
+{
+    "name" : "image-server",
+    "description" : "(pending)",
+    "version" : "0.1.0",
+    "main" : "app.js",
+    "author" : {
+        "name" : "Boyan Dzambazov",
+        "email" : "boyan.dzambazov@gmail.com"
+    },
+    "licenses" : {
+        "type" : "none"
+    },
+    "dependencies" : {
+        "express" : "3.x",
+        "imagemagick" : ">=0.1.3"
+    },
+    "keywords" : 
+        [
+            ""
+        ],
+    "bugs" : {
+        "web" : "null"
+    },
+    "license" : {
+        "type" : "gplv3"
+    }
+}
